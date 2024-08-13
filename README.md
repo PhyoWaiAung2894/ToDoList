@@ -30,11 +30,18 @@ To Do List App Using Core Data
 
 # 1. Installation
 
-bash```
+bash
+```
 git clone https://github.com/yourusername/ToDoList.git
-cd ToDoListApp ```
+```
+
+```
+cd ToDoList
+```
 
 # 2. Open the project in Xcode
 
-bash```
-open ToDoList.xcodeproj ```
+bash
+```
+open ToDoList.xcodeproj
+ ```
